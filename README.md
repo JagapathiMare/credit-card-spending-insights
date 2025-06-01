@@ -14,9 +14,12 @@ This project analyzes over 26,000 credit card transactions from cities across In
 - **Delhi, Mumbai, and Bengaluru** had the highest transaction volumes
 
 ## Project Structure
-- `data/cleaned_expense_data.csv` – Cleaned dataset used for SQL & Tableau
-- `notebooks/analysis.ipynb` – Google Colab notebook with full analysis
-- `tableau_dashboard/` – Screenshots and live link
+- `Credit card transactions - India - Simple.csv` - Original data
+- `cleaned_expense_data.csv` – Cleaned dataset used for SQL & Tableau
+- `Analysis.ipynb` – Google Colab notebook with full analysis
+- `Dashboard.png` – Screenshot
+- `Tableau Dashboard.twb` - Tableau file
+- `Dashboard_Link.txt` - Live link
 
 ## Tableau Dashboard
 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/CreditCardSpendingInsightsAcrossIndianCities/Dashboard1)
